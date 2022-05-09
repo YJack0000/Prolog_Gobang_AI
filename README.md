@@ -1,2 +1,2 @@
 # Prolog_Gobang_AI
-電腦科學邏輯基礎期末作業
+Logic for Computer Science final assignment: Write an gobang AI by applying Alpha-beta search. 
